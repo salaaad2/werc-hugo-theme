@@ -1,5 +1,7 @@
 # WERC hugo theme
 
+![example](./example.png "How it looks")
+
 This is a hugo theme made in an evening that replicates (or rather steals) the default look of werc-generated pages.
 
 werc is a so-called anti-framework for generating static sites, much like hugo. You can see what it is about [here](http://werc.cat-v.org/).
