@@ -1,0 +1,32 @@
+.midHeader {
+  background-color: #d7d7d7;
+}
+#side-bar a {
+  color: black;
+}
+#side-bar a:hover {
+  color: white!important;
+  background-color: #55AAAA;
+  background-color: black;
+  border-color: blue;
+}
+ 
+#side-bar {
+  /*background-color: #9EEEEE;
+  background-color: #EFFFEF;
+  background-color: white;*/
+}
+
+body {
+  background-color: #FFFFF7;
+}
+
+#main-copy img {
+    border: 0.4em solid black;
+    background-color: white!important;
+    padding: 0.2em;
+}
+
+img.no-border {
+    border: 0 solid black!important;
+}

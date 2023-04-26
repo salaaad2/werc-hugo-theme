@@ -1,0 +1,36 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = "BORN2DIE, aka watermans personal website"
+theme = 'werchugo'
+
+[menu]
+  [[menu.main]]
+    name = "Home"
+    pre = "home"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    name = "Thoughts"
+    pre = "thought"
+    url = "/thoughts/"
+    weight = 2
+  [[menu.main]]
+    name = "Projects"
+    pre = "project"
+    url = "/projects/"
+    weight = 3
+  [[menu.main]]
+    name = "Links"
+    pre = "link"
+    url = "/links/"
+    weight = 4
+  [[menu.main]]
+    name = "Things I use"
+    pre = "things"
+    url = "/thingsiuse/"
+    weight = 5
+  [[menu.main]]
+    name = "Gallery"
+    pre = "gallery"
+    url = "/gallery/"
+    weight = 6
